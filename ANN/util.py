@@ -4,7 +4,7 @@ def sigmoid(x):
     return 1/(1 + np.exp(-x))
 
 def d_sigmoid(x):
-    s = sigmode(x)
+    s = sigmoid(x)
     return s*(1-s)
 
 def relu(x):
