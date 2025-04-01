@@ -13,7 +13,6 @@
 - **Transformers:** Self-attention mechanisms and encoder-decoder structures.
 - **Generative Adversarial Networks (GANs):** Basic GAN implementations.
 - **Autoencoders:** Basic and variational autoencoders.
-- **Residual Networks (ResNets):** Implementation of residual blocks.
 
 ### Foundational Concepts
 - **Layer Operations:** Detailed implementations for various layer types.
