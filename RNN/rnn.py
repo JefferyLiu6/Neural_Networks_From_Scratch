@@ -2,6 +2,7 @@ import numpy as np
 from tool import cross_entropy_loss, d_cross_entropy_loss
 from util import tanh, d_tanh, softmax
 
+
 class RNN:
     def__init__(self, input_size, hidden_size, output_size, learning_rate):
         self.input_size = input_size
