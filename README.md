@@ -21,11 +21,6 @@
 - **Backpropagation:** Step-by-step implementation of the backpropagation algorithm.
 - **Optimization Algorithms:** Gradient Descent, SGD, Adam, RMSProp, etc.
 
-### Educational Resources
-- **Detailed Documentation:** Comprehensive explanations of concepts and algorithms.
-- **Inline Comments:** Code annotated with clear and concise comments.
-- **Tutorials & Notebooks:** Interactive Jupyter Notebooks for practical learning.
-
 ---
 
 ## 🔍 Why NeuroScratch?
