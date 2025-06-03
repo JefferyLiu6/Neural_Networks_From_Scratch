@@ -130,25 +130,6 @@ Contributions are welcome! Follow these steps:
 5. Open a Pull Request.
 
 Refer to `CONTRIBUTING.md` for detailed guidelines.
-
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📫 Contact
-
-For questions, suggestions, or collaborations:
-- Email:
-- GitHub Issues: 
-
----
-
-## 🎉 Final Thoughts
-
-NeuroScratch is your go-to resource for understanding and implementing neural networks from the ground up. Dive deep, experiment, and build your knowledge with this modular, easy-to-understand codebase!
 
 **Happy Learning and Coding! 🚀**
