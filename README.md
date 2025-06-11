@@ -111,25 +111,4 @@ To make NeuroScratch even more robust:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Open a Pull Request.
-
-Refer to `CONTRIBUTING.md` for detailed guidelines.
----
-
 **Happy Learning and Coding! 🚀**
