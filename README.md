@@ -1,4 +1,4 @@
-# NeuroScratch
+i# NeuroScratch
 
 **NeuroScratch** is a comprehensive project designed to implement neural network architectures from scratch without relying on high-level machine learning libraries. It serves as an educational and practical resource for building, understanding, and experimenting with diverse deep learning models.
 
@@ -21,13 +21,7 @@
 - **Backpropagation:** Step-by-step implementation of the backpropagation algorithm.
 - **Optimization Algorithms:** Gradient Descent, SGD, Adam, RMSProp, etc.
 
----
 
-## 🔍 Why NeuroScratch?
-
-Understanding neural networks from the ground up enhances your ability to troubleshoot, innovate, and demystify deep learning models. NeuroScratch bridges the gap between theoretical learning and hands-on implementation, making it invaluable for students, educators, and AI enthusiasts.
-
----
 
 ## 🚀 Getting Started
 
