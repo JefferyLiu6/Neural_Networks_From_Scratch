@@ -1,8 +1,4 @@
-i# NeuroScratch
 
-**NeuroScratch** is a comprehensive project designed to implement neural network architectures from scratch without relying on high-level machine learning libraries. It serves as an educational and practical resource for building, understanding, and experimenting with diverse deep learning models.
-
----
 
 ## 📚 Features
 
