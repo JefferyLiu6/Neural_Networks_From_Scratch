@@ -15,9 +15,6 @@
 - **Activation Functions:** ReLU, Sigmoid, Tanh, Softmax, and others.
 - **Loss Functions:** MSE, Cross-Entropy, and custom loss functions.
 - **Backpropagation:** Step-by-step implementation of the backpropagation algorithm.
-- **Optimization Algorithms:** Gradient Descent, SGD, Adam, RMSProp, etc.
-
-
 
 ## 🚀 Getting Started
 
