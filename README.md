@@ -12,8 +12,6 @@
 
 ### Foundational Concepts
 - **Layer Operations:** Detailed implementations for various layer types.
-- **Activation Functions:** ReLU, Sigmoid, Tanh, Softmax, and others.
-- **Loss Functions:** MSE, Cross-Entropy, and custom loss functions.
 - **Backpropagation:** Step-by-step implementation of the backpropagation algorithm.
 
 ## 🚀 Getting Started
