@@ -11,8 +11,7 @@
 - **Autoencoders:** Basic and variational autoencoders.
 
 ### Foundational Concepts
-- **Layer Operations:** Detailed implementations for various layer types.
-- **Backpropagation:** Step-by-step implementation of the backpropagation algorithm.
+- **Layer Operations:** Detailed implementations for various layer 
 
 ## 🚀 Getting Started
 
