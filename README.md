@@ -14,10 +14,7 @@
 - **Layer Operations:** Detailed implementations for various layer 
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- **Python 3.8+**
-- Basic understanding of Python programming and neural networks.
+.
 
 ### Installation
 Clone the repository:
