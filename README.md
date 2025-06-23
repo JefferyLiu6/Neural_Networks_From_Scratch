@@ -9,10 +9,6 @@
 - **Transformers:** Self-attention mechanisms and encoder-decoder structures.
 - **Generative Adversarial Networks (GANs):** Basic GAN implementations.
 - **Autoencoders:** Basic and variational autoencoders.
-
-### Foundational Concepts
-- **Layer Operations:** Detailed implementations for various layer 
-
 ## 🚀 Getting Started
 .
 
