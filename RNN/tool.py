@@ -1,5 +1,4 @@
 import numpy as np
-
 def mse_loss(y, y_pred):
     return np.mean((y - y_pred) ** 2)
 
